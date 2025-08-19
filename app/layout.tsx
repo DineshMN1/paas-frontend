@@ -3,7 +3,7 @@ import { ThemeProvider } from "next-themes";
 
 export const metadata = {
   title: "ZynqCloud",
-  description: "Nextcloud-style storage (frontend MVP)"
+  description: "Safe , Secure , Ease"
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
